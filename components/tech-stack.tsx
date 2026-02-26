@@ -20,7 +20,7 @@ export default function TechStack() {
     },
     {
       name: "AI/ML",
-      skills: ["Generative AI", "RAG", "LangChain", "LangGraph", "LLM Applications", "Machine Learning", Deep Learning, MCP Server],
+      skills: ["Generative AI", "RAG", "LangChain", "LangGraph", "LLM Applications", "Machine Learning", "Deep Learning", "MCP Server"],
       gradient: "from-green-500/20 to-emerald-500/20",
       borderColor: "border-green-500/50",
     },
