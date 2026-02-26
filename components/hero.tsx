@@ -110,7 +110,7 @@ export default function Hero() {
           {/* Social links with enhanced styling */}
           <div className="flex gap-4 animate-fade-in-up" style={{ animationDelay: "0.3s" }}>
             <a
-              href="https://drive.google.com/file/d/1-lpUvi2BFAFp-5DWCICYS5RQ50oI7Vof/view?usp=sharing"
+              href="https://drive.google.com/file/d/1xy6cQfcv6g23wMH23Z4xKaLDKwil98Dg/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="group p-3 bg-card border-2 border-border hover:border-accent hover:bg-accent/10 rounded-xl transition-all hover:scale-125 hover:shadow-lg hover:shadow-accent/30"
