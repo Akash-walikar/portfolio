@@ -8,36 +8,41 @@ export default function TechStack() {
   const categories = [
     {
       name: "Programming & Querying",
-      icon: "💻",
       skills: ["Python", "SQL", "JavaScript", "TypeScript"],
       gradient: "from-blue-500/20 to-cyan-500/20",
       borderColor: "border-blue-500/50",
     },
     {
       name: "Web & Backend",
-      icon: "🌐",
       skills: ["React", "FastAPI", "HTML", "CSS", "Next.js", "Tailwind"],
       gradient: "from-purple-500/20 to-pink-500/20",
       borderColor: "border-purple-500/50",
     },
     {
-      name: "AI/ML & Data",
-      icon: "🤖",
-      skills: ["Generative AI", "RAG", "LangChain", "LangGraph", "LLM Applications", "Machine Learning"],
+      name: "AI/ML",
+      skills: ["Generative AI", "RAG", "LangChain", "LangGraph", "LLM Applications", "Machine Learning", Deep Learning, MCP Server],
       gradient: "from-green-500/20 to-emerald-500/20",
       borderColor: "border-green-500/50",
     },
     {
-      name: "Tools & Platforms",
-      icon: "🛠️",
-      skills: ["Git", "GitHub", "Docker", "AWS", "PyCharm", "VS Code"],
+      name: "DevOps",
+      skills: ["Git", "GitHub", "Docker", "CI/CD", "AWS", "VS Code"],
       gradient: "from-orange-500/20 to-red-500/20",
       borderColor: "border-orange-500/50",
     },
     {
+      name: "Libraries",
+      skills: ["Numpy", "Pandas", "Matplotlib", "PyTorch", "TensorFlow"],
+      gradient: "from-teal-500/20 to-cyan-500/20",
+      borderColor: "border-teal-500/50",
+
+
+
+
+    },
+    {
       name: "Concepts & Patterns",
-      icon: "🏗️",
-      skills: ["OOPS", "SDLC", "Data Structures", "Algorithms"],
+      skills: ["OOPS", "SDLC", "Data Structures & Algorithms"],
       gradient: "from-indigo-500/20 to-violet-500/20",
       borderColor: "border-indigo-500/50",
     },
