@@ -44,7 +44,7 @@ export default function Hero() {
               <ArrowRight size={18} className="group-hover:translate-x-1 transition-transform" />
             </Link>
             <a
-              href="https://drive.google.com/file/d/1-lpUvi2BFAFp-5DWCICYS5RQ50oI7Vof/view?usp=sharing"
+              href="https://drive.google.com/file/d/1xy6cQfcv6g23wMH23Z4xKaLDKwil98Dg/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-7 py-3 border-2 border-accent/50 hover:border-accent hover:bg-accent/10 transition-all rounded-lg font-semibold group hover:scale-105"
