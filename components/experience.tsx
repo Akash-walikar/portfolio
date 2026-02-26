@@ -5,7 +5,7 @@ export default function Experience() {
     {
       company: "CSIR4PI, NAL (National Aerospace Laboratories)",
       position: "Data Analyst Intern",
-      period: "Sep 2024 – Dec 2024",
+      period: "Feb 2025 – May 2025",
       description:
         "Processed 10+ years of CHIRPS high-resolution rainfall data using Python, xarray, and pandas. Engineered predictive rainfall models using Random Forest Regression, improving forecast accuracy by 12%. Built and deployed geospatial visualizations (heatmaps, trend plots, maps) for climate analysis research.",
       achievements: [
