@@ -12,11 +12,11 @@ export const metadata: Metadata = {
   description:
     "Portfolio of Akash - AI/ML specialist with expertise in RAG, LLMs, and full-stack development. Explore projects, internship experience, and technical skills.",
   generator: "v0.app",
-  viewport: {
-    width: "device-width",
-    initialScale: 1,
-    maximumScale: 1,
-  },
+}
+export const viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 1,
 }
 
 export default function RootLayout({
