@@ -29,7 +29,7 @@ export default function Projects() {
         "Real-time dark mode interface with file uploads",
       ],
       featured: true,
-      icon: "🔍",
+      github: "https://github.com/Akash-walikar/Agentic-RAG-with-Multi-Modal-Search",
     },
     {
       title: "AutoPR – Autonomous Pull Request Generation & Code Repair",
@@ -52,7 +52,6 @@ export default function Projects() {
         "Up to 80% reduction in manual debugging time",
       ],
       featured: true,
-      icon: "🤖",
     },
   ]
 
